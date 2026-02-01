@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/dt3-modern-interface-43283-43295/dt3_frontend"
+}
